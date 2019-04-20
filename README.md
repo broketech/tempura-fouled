@@ -4,7 +4,7 @@ THIS SPACE HERE
 ## Concept
 This space hopes to hold some kind of framework for a "bring it back to bacon" type visualization. Kevin Bacon will be the test case, the end result will be that users can differentiate degrees of social separation (film roles) between actors/actresses.
 
-# Status
+## Status
 uh Analyzing tsv from imdb. Purely conceptual.
 
 ## TODO
